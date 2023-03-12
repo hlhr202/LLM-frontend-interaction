@@ -1,0 +1,4 @@
+[
+    { "Jump to Home": { "command": "redirect", "path": "/" } },
+    { "Jump to Users": { "command": "redirect", "path": "/users" } }
+]
